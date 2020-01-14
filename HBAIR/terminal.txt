@@ -1,0 +1,8 @@
+Piloto
+Oficial1
+Oficial2
+Chefe
+Com1
+Com2
+Policial
+Bandido
